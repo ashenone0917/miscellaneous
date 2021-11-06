@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\ash\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(101,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\ash\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(91,9): warning C4101: “temp1”: 未引用的局部变量
+  ConsoleApplication3.vcxproj -> C:\Users\ash\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
